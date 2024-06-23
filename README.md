@@ -1,6 +1,5 @@
 
-<!--
-**HamiTee/HamiTee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Code Scholar </h1>
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **PYTHON, JAVA,C**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **temboh99@gmail.com**
 
