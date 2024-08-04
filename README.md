@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about **Data**
 
-- 📫 How to reach me **temboh99@gmail.com**
+- 📫 How to reach me **https://x.com/itshami_tee**
 
 - ⚡ Fun fact **I always smile at people I know**
 
